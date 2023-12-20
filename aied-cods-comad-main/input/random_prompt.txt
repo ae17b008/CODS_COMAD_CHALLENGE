@@ -1,0 +1,34 @@
+
+Your job is to predict if the given  video A is a would follow prior to video B in a learning flow, give a very short discription in one line explaning your rational.
+Give me the answer as 
+
+True, if the  video A should be prior to video B in a learning flow to ensure a efficient and effective coverage of the topics being discussed in the videos.
+False, if video A dont need to be prior to video B in a learning flow or if video A is not a pre requiste of video B.
+
+
+We also provide a taxonomy for each video that can help you with the decision. You are also provided with the transcripts of those videos, use them while preicting the answer. 
+
+
+
+video A : Non-metals
+video A Taxonomy : VIII>>Science>>Materials : Metals and Non-Metals>>Chemical Properties of Metals and Non-metals
+Video A Transcript :    materials on the basis of their properties are classified into to tide these categories are metals and non metals examples of metals include iron copper lead an aleminium examples of non metals include sulphur iodine oxygen and hydrogen non metals exist either as solids are gases blue mean is an exception as it exists in liquid state non metals are poor conductors of electricity grefight is an exception here as it is at good conductor of electricity and often used in battery non metals are soft and brittle as the great easily therefore unlike metals they cannot be beaten into sheets or don into wires hence they are non malleable and non ductile diamond which is the form of carbon is exception to many properties of non metals diamond is extremely hard non metals have low melting and boiling point but diamond has high melting and boiling point generally non metals except for iodine like shining sulphate and they are non lustrous non metals react with oxygen to give non metallic oxides these non metallic oxides are acidic in nature observe the reaction between sulphur and oxygen take powder sulphur in deflegrating spoon and heated when the sulphur starts burning introduce the deflagurating spoon in at glass tumbler after some time remove the lid add little water into the tumbler and quickly place the lid shake the glass tumbler and check the solution with blue litmus paper blue litmus turns red proving the acidic nature of non metallic oxide formed non metal like phosphorus is stored in water as it reacts vigorously with air non metals do not react with water and acids
+
+video B : Newton's First Law of Motion
+video B Taxonomy : XI>>Physics>>Physics : Part I>>Laws of Motion
+Video B Transcript :  newtons first law of motion ar toy card being pulled with the string stops as soon as the string brakes as on such daily life experiences aristortle suggested that an external force is recuiet to keep the body in motion galilio another famous physicist studded the motion of bodies on as smooth double inclined plane when he ball is released from one side of the double inclined plane it rises up to the same height on the other side on changing the slope of the second plane the ball was again observe to rise up to the same height as before though it covered a larger distance in the second case finally when the second plane becomes horizontal and the ball is released from the same height it travelled up to infinity galilio dust concluded that if he body is in uniform motion on smooth surface it continues to move without any external force ristortle had studded the motion on he rough surface and did not consider the force of friction and hence the fallacy based on gallileos conclusion newton formulated is first law of motion when the driver of abuse sudise the brakes the lower part of the girls body which is in contact with the moving bast stops imagely by the upper part continues to be in a state of motion due to inertia and she gets acute in the forward direction thus ar body resists any change in its state of motion when the signal turns green and the driver again starts the bus the lower portion of the body shares the motion of the bus but the upper part tends to remain in rest and the girl gets acurt in the backward direction thus ar body resists any change in its state of rest combining the two observations we get newtons first law of motion everybody resists are change in its state of rest or of uniform motion in straight line unless acted the born by an external force when the tree is shaken its branches move slightly but the fruits and leaves which remain at rest get detached from it also the carpet resist in motion when beaten by as stick but the dust particles that were at rest get detached from the carpet
+
+We are using this  to make a learning workflow for students, so that we can recommend personalized learning pathways to users, fostering efficient and effective 
+coverage of specific academic concepts. make sure to give your answer in accordance with that. Base your answer on the information provided in the video transcripts.
+
+    
+
+
+
+
+
+
+
+
+
+0
